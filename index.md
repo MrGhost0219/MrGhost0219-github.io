@@ -28,7 +28,7 @@ practical application
 ● Learning fundamentals of JavaScript, programming fundamentals, developer tools, git and
 problem solving
 
-
+<br>
 Eric Fernandez | Las Vegas, Nevada| Oct 2021 - Feb 2022
 Personal Assistant
 
@@ -39,7 +39,7 @@ Personal Assistant
 
 ● Maintained appropriate filing of personal and professional documentation.
 
-
+<br>
 Amazon | Las Vegas, Nevada| Sep 2020 - Oct 2021
 Warehouse Associate
 
@@ -48,6 +48,8 @@ Warehouse Associate
 ● Prepared orders for shipment by systematically picking, packing and labeling merchandise.
 
 ● Inspected incoming and outgoing shipments to verify accuracy and prevent errors.
+
+<br>
 Greco and Sons | Las Vegas, Nevada| Jul 2018 - Nov 2019
 Warehouse Associate
 
@@ -56,7 +58,7 @@ Warehouse Associate
 ● Prepared orders by processing requests, pulled materials from the warehouse, packed boxes and
 prepared shipments.
 
-
+<br>
 (N/A)| Las Vegas, Nevada| Dec 2017 - May 2018
 HVAC Installer
 
@@ -70,7 +72,7 @@ complete circuits.
 
 ● Utilized pressure gauges and soap-and-water solutions to test pipe and tubing joints for leaks.
 
-
+<br>
 Absolute Dental | Las Vegas, Nevada| Jul 2016 - May 2017
 Dental Assistant
 
@@ -81,11 +83,5 @@ Dental Assistant
 ● Maintained Area of Work cleaned by following OSHA standard procedures
 
 
-Mi Familia Vota | Las Vegas, Nevada| Aug 2014 - Nov 2014
-Canvasser
-
-● Walk around community public areas to register citizens to vote for general elections
-
-● Knock door to door in residential areas to encourage registered citizens to go out and vote
 
 
