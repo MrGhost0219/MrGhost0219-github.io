@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+Welcome to Martin's Page
 
-You can use the [editor on GitHub](https://github.com/MrGhost0219/MrGhost0219-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Martin and I am an aspiring developer trying to get my name out in the tech world!
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am very passionate about Video Games but just technology in general and how it is always advacning non-stop. Even through the pandemic it still kept on growing and it is just fascinating on how even many of us were and are physically apart, technology will just help us to be more closer. I want to be part of the Video Game industry where creativeness knows no limit. 
 
-```markdown
-Syntax highlighted code block
+SKILLS
 
-# Header 1
-## Header 2
-### Header 3
+● JavaScript
+● HTML
+● CSS
+● Bootstrap
+● Unit Testing with Mocha
+● Git
+● Python
 
-- Bulleted
-- List
+EXPERIENCE
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Generation Junior Web Developer Program | May 2022- July 2022
+Training Participant (In Progress)
+● Participating in an 11-week, 350+ hour Junior Web Developer program that emphasizes hands-on
+practical application
+● Learning fundamentals of JavaScript, programming fundamentals, developer tools, git and
+problem solving
+Eric Fernandez | Las Vegas, Nevada| Oct 2021 - Feb 2022
+Personal Assistant
+● Displayed absolute discretion at handling confidential information.
+● Oversaw personal and professional calendars and coordinated appointments for future events.
+● Maintained appropriate filing of personal and professional documentation.
+Amazon | Las Vegas, Nevada| Sep 2020 - Oct 2021
+Warehouse Associate
+● Worked safely around moving machinery.
+● Prepared orders for shipment by systematically picking, packing and labeling merchandise.
+● Inspected incoming and outgoing shipments to verify accuracy and prevent errors.
+Greco and Sons | Las Vegas, Nevada| Jul 2018 - Nov 2019
+Warehouse Associate
+● Pulled orders quickly to maintain demanding productivity goals.
+● Prepared orders by processing requests, pulled materials from the warehouse, packed boxes and
+prepared shipments.
+(N/A)| Las Vegas, Nevada| Dec 2017 - May 2018
+HVAC Installer
+● Removed old equipment from customers' homes and cleaned up areas to prepare for new
+installations.
+● Assembled air ducts, pipes, discharge valves and flues to central heating and cooling equipment.
+● Connected heating or air conditioning equipment to water, fuel, or refrigerant sources to form
+complete circuits.
+● Utilized pressure gauges and soap-and-water solutions to test pipe and tubing joints for leaks.
+Absolute Dental | Las Vegas, Nevada| Jul 2016 - May 2017
+Dental Assistant
+● Successfully assisted the dentist by performing four-handed dentistry and other chair-side duties.
+● Explained treatment procedures and instructed patients on home care guidelines.
+● Maintained Area of Work cleaned by following OSHA standard procedures
+Mi Familia Vota | Las Vegas, Nevada| Aug 2014 - Nov 2014
+Canvasser
+● Walk around community public areas to register citizens to vote for general elections
+● Knock door to door in residential areas to encourage registered citizens to go out and vote
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrGhost0219/MrGhost0219-github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
